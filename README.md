@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on [ESCA_Homepage](https://github.com/amane-IT/ESCA_HomePage)
-- 🌱 I’m currently learning **Java, Kotlin**
-
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famane-IT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)	
   </div>
+
+
+- 🔭 I’m currently working on [ESCA_Homepage](https://github.com/amane-IT/ESCA_HomePage)
+- 🌱 I’m currently learning **Java, Kotlin**
 
 
 <h2 align="left">Language</h2>
